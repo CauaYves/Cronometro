@@ -1,0 +1,14 @@
+C:\Driven\CSharp\cronometro\bin\Debug\netcoreapp3.1\cronometro.exe
+C:\Driven\CSharp\cronometro\bin\Debug\netcoreapp3.1\cronometro.deps.json
+C:\Driven\CSharp\cronometro\bin\Debug\netcoreapp3.1\cronometro.runtimeconfig.json
+C:\Driven\CSharp\cronometro\bin\Debug\netcoreapp3.1\cronometro.runtimeconfig.dev.json
+C:\Driven\CSharp\cronometro\bin\Debug\netcoreapp3.1\cronometro.dll
+C:\Driven\CSharp\cronometro\bin\Debug\netcoreapp3.1\cronometro.pdb
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.csproj.AssemblyReference.cache
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.AssemblyInfoInputs.cache
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.AssemblyInfo.cs
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.csproj.CoreCompileInputs.cache
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.dll
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.pdb
+C:\Driven\CSharp\cronometro\obj\Debug\netcoreapp3.1\cronometro.genruntimeconfig.cache
